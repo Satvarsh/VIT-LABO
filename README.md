@@ -41,3 +41,10 @@ Note: You will be accessing the APP under the Guest Version by default robbing y
 | Can become admin  | NO      | YES        |
 | Can access private view    | NO       | YES        |
 
+Admin Credentials: <br>
+
+'''
+User ID   : 18BCE2098
+Password  : Satvarsh
+'''
+
