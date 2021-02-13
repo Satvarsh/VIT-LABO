@@ -5,7 +5,7 @@ This is a project I made for my university to incorportae Virtual Laboratories
 -Integrationwith University’s Services <br>
 -Includes ability to Post tests and a demo fortwo fully functional Virtual Lab activities <br>
 
-#Contents
+# Contents
 
 - Report <br>
 - Android App <br>
