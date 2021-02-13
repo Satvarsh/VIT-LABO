@@ -31,8 +31,15 @@ Note: You will be accessing the APP under the Guest Version by default robbing y
 
 | Feature     | Guest Access |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Login required    | NO      |
+| View Modules  | YES        |
+| Change Modules    | NO      |
+| Write Exams  | NO       |
+|Access Logs    | NO       |
+| Delete modules  | NO       |
+| Visit university Portal    | NO       |
+| Can become admin  | NO      |
+| Can access private view    | NO       |
 
 Login required - NO
 
