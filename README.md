@@ -29,42 +29,15 @@ Operating System: Android version 8.0 or above <br>
 Note: You will be accessing the APP under the Guest Version by default robbing you of lots of features
 
 
-| Feature     | Guest Access |
-| ----------- | ----------- |
-| Login required    | NO      |
-| View Modules  | YES        |
-| Change Modules    | NO      |
-| Write Exams  | NO       |
-|Access Logs    | NO       |
-| Delete modules  | NO       |
-| Visit university Portal    | NO       |
-| Can become admin  | NO      |
-| Can access private view    | NO       |
+| Feature     | Guest Access | Admin Access |
+| ----------- | ----------- | ----------- |
+| Login required    | NO      | YES        |
+| View Modules  | YES        | YES        |
+| Change Modules    | NO      | YES        |
+| Write Exams  | NO       | YES        |
+|Access Logs    | NO       | YES        |
+| Delete modules  | NO       | YES        |
+| Visit university Portal    | NO       | YES        |
+| Can become admin  | NO      | YES        |
+| Can access private view    | NO       | YES        |
 
-Login required - NO
-
-View Modules - YES
-
-Add Modules
-NO
-
-Change Modules
-NO
-
-Write Exams
-NO
-
-Access Logs
-NO
-
-Delete modules
-NO
-
-Visit university Portal
-NO
-
-Can become admin
-NO
-
-Can access private view
-NO
